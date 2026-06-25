@@ -1,2 +1,17 @@
-# Portfolio-Devops
-A modern, responsive DevOps portfolio website built with React and Tailwind CSS, showcasing my skills, cloud projects, technical journey, and passion for DevOps, Cloud Computing, and Infrastructure Automation.
+# 🚀 DevOps Portfolio
+
+Welcome to my personal portfolio website!
+
+I'm **Anuj Meshram**, a Final Year B.Tech CSE student and an aspiring DevOps Engineer passionate about Cloud Computing, Infrastructure Automation, and Site Reliability Engineering.
+
+This portfolio showcases:
+- ☁️ Cloud Skills (AWS, GCP, Azure)
+- 🐳 Docker & Kubernetes
+- 🌍 Linux Administration
+- 🏗️ Terraform & Ansible
+- ⚙️ CI/CD Pipelines
+- 📊 Monitoring (Prometheus, Grafana, Datadog)
+- 💻 Java, Python & Shell Scripting
+- 🚀 Real-world DevOps Projects
+
+The website is built using **React**, **Tailwind CSS**, and modern UI/UX principles with smooth animations and a fully responsive design.
