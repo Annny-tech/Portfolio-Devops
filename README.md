@@ -14,4 +14,4 @@ This portfolio showcases:
 - 💻 Java, Python & Shell Scripting
 - 🚀 Real-world DevOps Projects
 
-The website is built using **React**, **Tailwind CSS**, and modern UI/UX principles with smooth animations and a fully responsive design.
+The website is built using **React**, **Tailwind CSS**, and modern UI/UX principles with smooth animations and a fully responsive design
